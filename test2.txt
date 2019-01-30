@@ -1,4 +1,3 @@
-LICENSE
 README.md
 sublime快捷键.txt
 test/
